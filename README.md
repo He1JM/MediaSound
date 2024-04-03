@@ -1,4 +1,4 @@
 # MediaSound
 
-## ¿Do you want some free-copyright media archives?
-Here, in MediaSound, we want to create a free-license program to upload whatever you want. (non-illegal things oc) 
+## ¿Do you want to listen some free-speech Podcast?
+Here, in MediaSound, we want to create a free-license platform to upload whatever you want to say and hear. (non-illegal things oc) 
