@@ -5,7 +5,7 @@ Here, in MediaSound, we want to create a free-license platform to upload whateve
 
 
 
-As a podcast enjoyer, I want to get the concrete podcast category that I desire to listen.
+__As a__ _podcast enjoyer_, __I want__ to get the concrete podcast category that I desire to listen.
 
-As the leader of the MediaSound team, I want our team-podcasting platform to include playlist sharing that can collaborate in real-time and keep a sequence of podcasts between several users.
+__As the__ _leader of the MediaSound team_, __I want__ our team-podcasting platform to include playlist sharing that can collaborate in real-time and keep a sequence of podcasts between several users.
 
