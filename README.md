@@ -13,23 +13,23 @@ Here, in MediaSound, we want to create a free-license platform to upload whateve
 
 ## User Stories:
 
-__As a__ _user_, __I want__ to access my personalized profile where I can view and edit my personal information, such as my name, email, and profile picture.
+__As a__ _user_, __I want__ to access my personalized profile __to that__ view and edit my personal information, such as my name, email, and profile picture.
 
-__As a__ _podcaster_, __I want__ to be able to upload audio files in some formats like MP3 and WAV to publish my podcasts.
+__As a__ _podcaster_, __I want__ to be able to upload audio files in some formats like MP3 and WAV __to that__ publish my podcasts.
 
-__As a__ _system administrator_, __I want__ to implement a secure and scalable storage system to efficiently manage users' audio files.
+__As a__ _podcaster_, __I want__ to see the views, rating and comments of my podcasts __to that__ improve my content.
 
-__As a__ _user_, __I want__ to be able to leave comments and ratings on podcasts to interact with other users and content creators.
+__As a__ _user_, __I want__ to be able to leave comments and ratings on podcasts __to that__ interact with other users and content creators.
 
-__As a__ _user_, __I want__ to be able to create personalized playlists, either public or private, to organize my favorite podcasts.
+__As a__ _user_, __I want__ to be able to create personalized playlists, either public or private, __to that__ organize my favorite podcasts.
 
-__As a__ _user_, __I want__ to be able to follow other content creator users to stay updated on their new releases.
+__As a__ _user_, __I want__ to be able to follow other content creator users __to that__ stay updated on their new releases.
 
-__As a__ _user_, __I want__ playback controls such as play, pause, forward, rewind, volume adjustment, and to see the average rating and comments of a podcast while listening.
+__As a__ _user_, __I want__ playback controls such as play, pause, forward, rewind, volume adjustment, __so that__ control the playback of the podcast.
 
-__As a__ _user_, __I want__ to be able to search for podcasts by title, description, user, tags, and categories.
+__As a__ _user_, __I want__ to be able to search for podcasts by title, description, user, tags, and categories __so that__ find specific podcasts or discover new ones.
 
-__As a__ _user_, __I want__ to be able to get podcasts by categories, tags, popularity, and trends to discover new content.
+__As a__ _user_, __I want__ to be able to get podcasts recommendations by categories, tags, popularity, and trends __to that__ discover new content.
 
 
 ## Entities:
