@@ -74,4 +74,3 @@ __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(
 - User management.
 
 - Media player configuration.
-
