@@ -5,8 +5,6 @@
 Here, in __MediaSound__, we want to create a free-license platform to upload whatever you want to say and hear. We take people's safety and freedom seriously. 
 
 
-## Do you want a platform where you can listen to anything, without censorship and opting for free-speech, completely free?
-
 __MediaSound__ is one of our newest platform using backend system with _object-oriented design_, _design patterns_, and some _good code practices_ in order to provide a __RESTful API__ with different services related to podcasting.
 
 
