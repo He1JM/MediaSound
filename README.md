@@ -65,7 +65,7 @@ __Playlist:__ name, uuidPlaylist, amountPodcast, descriptionPlaylist, addPlaylis
 __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(), pauseMedia(), getVolume(), getState(), queuePodcast(), getQueue(), loadPodcast(), getCurrentPodcast(), getCurrentTime(), Podcast[E]
 
 
-# Processes 
+## Processes 
 
 - Playlist creation.
 
@@ -95,7 +95,7 @@ __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(
 
 ![Activity Diagram](src/codes/images/ActDiagram_AccessProfile.png)
 
-# States
+## States
 
 - User login.
 
@@ -110,19 +110,23 @@ __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(
 ![State Diagram](src/codes/images/StateDiagram_PlayPodcast.png)
 
 
-# Diagrams
+## Diagrams
 
 - Deployment Diagram
 ![Deployment Scheme](src/codes/images/DeployDiagram_MediaSound.png)
+
 
 
 - Conceptual Model.
 ![Conceptual Model](src/codes/images/ConceptualDiagram_MediaSound.svg)
 
 
+
 - Entity-Relation Model.
 ![ER Model](src/codes/images/ERDiagram_Mediasound.svg)
 
 
+
 - CRC Cards.
 ![CRC Cards](src/codes/images/CRCCards_MediaSound.svg)
+
