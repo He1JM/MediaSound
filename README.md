@@ -49,7 +49,7 @@ __Media player:__ Interface that plays audio on the platform.
 
 ### Tools to Use
 
-In this case, the backend will be build using _python 3.10_, and some related technologies as _Fast API_ to serve functionalities, _PyTest_ to apply some simple unit tests, and _Black_ to auto-format the code and increase code readibility.
+In this case, the backend will be build using _Python 3.10_, and some related technologies as _Fast API_ to serve functionalities, _PyTest_ to apply some simple unit tests, and _Black_ to auto-format the code and increase code readibility.
 
 
 ## Entities:
@@ -68,36 +68,61 @@ __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(
 # Processes 
 
 - Playlist creation.
-  
-  ![Activity Diagram](src/codes/images/ActDiagram_CreatePlaylist.png)
+
+![Activity Diagram](src/codes/images/ActDiagram_CreatePlaylist.png)
   
 - Playlist custom management.
-  
-  ![Activity Diagram](src/codes/images/ActDiagram_CustomPlaylist.png)
+
+![Activity Diagram](src/codes/images/ActDiagram_CustomPlaylist.png)
 
 - Podcast upload.
 
-  ![Activity Diagram](src/codes/images/ActDiagram_PodcastUpload.png)
+![Activity Diagram](src/codes/images/ActDiagram_PodcastUpload.png)
 
 - Podcast management.
 
-  ![Activity Diagram](src/codes/images/ActDiagram_ViewingPodcastMetrics.png)
+![Activity Diagram](src/codes/images/ActDiagram_ViewingPodcastMetrics.png)
   
 - Podcast interaction.
 
-   ![Activity Diagram](src/codes/images/ActDiagram_PodcastInteraction.png)
+![Activity Diagram](src/codes/images/ActDiagram_PodcastInteraction.png)
 
 - Podcast search.
 
-  ![Activity Diagram](src/codes/images/ActDiagram_PodcastSearch.png)
+![Activity Diagram](src/codes/images/ActDiagram_PodcastSearch.png)
   
-
 - User management.
 
+![Activity Diagram](src/codes/images/ActDiagram_AccessProfile.png)
+
+# States
+
+- User login.
+
+![State Diagram](src/codes/images/StateDiagram_Login.png)
 
 - Playlist and Podcast interaction.
-  
+
+![State Diagram](src/codes/images/StateDiagram_PodcastToPlaylist.png)
 
 - Media player configuration.
 
-  
+![State Diagram](src/codes/images/StateDiagram_PlayPodcast.png)
+
+
+# Diagrams
+
+- Deployment Diagram
+![Deployment Scheme](src/codes/images/DeployDiagram_MediaSound.png)
+
+
+- Conceptual Model.
+![Conceptual Model](src/codes/images/ConceptualDiagram_MediaSound.svg)
+
+
+- Entity-Relation Model.
+![ER Model](src/codes/images/ERDiagram_Mediasound.svg)
+
+
+- CRC Cards.
+![CRC Cards](src/codes/images/CRCCards_MediaSound.svg)
