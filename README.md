@@ -113,20 +113,21 @@ __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(
 ## Diagrams
 
 - Deployment Diagram
+
 ![Deployment Scheme](src/codes/images/DeployDiagram_MediaSound.png)
 
 
-
 - Conceptual Model.
+
 ![Conceptual Model](src/codes/images/ConceptualDiagram_MediaSound.svg)
 
 
-
 - Entity-Relation Model.
+
 ![ER Model](src/codes/images/ERDiagram_Mediasound.svg)
 
 
-
 - CRC Cards.
+
 ![CRC Cards](src/codes/images/CRCCards_MediaSound.svg)
 
