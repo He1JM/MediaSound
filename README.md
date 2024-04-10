@@ -68,14 +68,34 @@ __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(
 # Processes 
 
 - Playlist creation.
+  
   ![Activity Diagram](src/codes/images/ActDiagram_CreatePlaylist.png)
+  
 - Playlist custom management.
+  
   ![Activity Diagram](src/codes/images/ActDiagram_CustomPlaylist.png)
 
+- Podcast upload.
+
+  ![Activity Diagram](src/codes/images/ActDiagram_PodcastUpload.png)
+
 - Podcast management.
+
+  ![Activity Diagram](src/codes/images/ActDiagram_ViewingPodcastMetrics.png)
+  
+- Podcast interaction.
+
+   ![Activity Diagram](src/codes/images/ActDiagram_PodcastInteraction.png)
+
+- Podcast search.
+
+  ![Activity Diagram](src/codes/images/ActDiagram_PodcastSearch.png)
   
 
 - User management.
+
+
+- Playlist and Podcast interaction.
   
 
 - Media player configuration.
