@@ -65,12 +65,19 @@ __Playlist:__ name, uuidPlaylist, amountPodcast, descriptionPlaylist, addPlaylis
 __MediaPlayer:__ volume, playback, state, setVolume(), setPlayback(), playMedia(), pauseMedia(), getVolume(), getState(), queuePodcast(), getQueue(), loadPodcast(), getCurrentPodcast(), getCurrentTime(), Podcast[E]
 
 
-# Processes
+# Processes 
 
-- Playlist management.
+- Playlist creation.
+  ![Activity Diagram](src/codes/images/ActDiagram_CreatePlaylist.png)
+- Playlist custom management.
+  ![Activity Diagram](src/codes/images/ActDiagram_CustomPlaylist.png)
 
 - Podcast management.
+  
 
 - User management.
+  
 
 - Media player configuration.
+
+  
